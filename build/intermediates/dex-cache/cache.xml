@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rampr\.android\build-cache\f0a6b9f15da9c39175d1b4c6e405b2fd194a15d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="E:\BMW-Android\app\build\intermediates\pre-dexed\debug\classes_5462681ced3ac700b0331ad3fc2ae6731bcb2a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rampr\.android\build-cache\139353877b18adf7895ba1eb1c22267bbb13db1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="E:\BMW-Android\app\build\intermediates\pre-dexed\debug\classes_634945758eadfcf884ef702905639549c3c53f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rampr\.android\build-cache\a96660a989d7699caed4d68b13fc74dd64e81565\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="E:\BMW-Android\app\build\intermediates\pre-dexed\debug\classes_c6d86bdaadc3f52719788dc33c0ed0234995e3fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rampr\.android\build-cache\195a4f6e35f3473826cbf25ca5e21b082938c317\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="E:\BMW-Android\app\build\intermediates\pre-dexed\debug\classes_8b4ca4654fd7a960031cd4eec9803116c034497d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rampr\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.2\febfd2d9e89bde4c3a9723bcd9522cba96bddac7\dagger-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="E:\BMW-Android\app\build\intermediates\pre-dexed\debug\dagger-2.2_da330275233fd7b6bf22562a864eb8508bf346cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rampr\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\BMW-Android\app\build\intermediates\pre-dexed\debug\gson-2.8.0_aa8e7de3bbd5ddefa191741788f457cb0422d7eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rampr\.android\build-cache\714d4e4d57373b8beac2f398e067a0999ccc947d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="E:\BMW-Android\app\build\intermediates\pre-dexed\debug\classes_2367e86610626e98e17814c4b5290aa5c08f8b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rampr\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\BMW-Android\app\build\intermediates\pre-dexed\debug\javax.inject-1_a810dd08bfec1d0d27056fda113051ae1f11d8fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rampr\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="E:\BMW-Android\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.1_98cc28c6cdc950798bb9539b3efa1577590c7e35.jar" />
+    </item>
+
+</items>
